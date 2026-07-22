@@ -74,7 +74,7 @@ are the same peptide measured in different modified
 and unmodified forms.
 
 Using the matched peptide pairs identified above, I compared peptides with the same
-sequence measured in an unmodified and oxidised state.
+sequence measured in an unmodified and oxidised state. A single oxidised modification was used for comparison as it was the most abundant modification, peptides with acetyl or 2 oxidation states account for less than 10 peptide pairs.
 
 This controls for peptide-to-peptide differences in composition and length. A simple
 comparison between all oxidised and all unmodified peptides would be confounded because
