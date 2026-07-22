@@ -23,7 +23,8 @@ The notebook expects:
 The data is not included in this github repo, per the brief. The notebook runs top to bottom from a clean
 kernel.
 How I approached it
-I followed two phases.
+
+My approach followed 2 phases:
 
 First, I established what the peptides and retention measurements represent, including
 checking missing values, duplicates, distributions and whether the retention axis could
