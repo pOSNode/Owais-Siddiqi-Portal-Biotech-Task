@@ -87,7 +87,7 @@ The paired analysis shows a consistent reduction in retention after oxidation:
 - median shift ≈ -13.5 units
 - 95% confidence interval approximately [-16, -12]
 
-I checked the robustness of this result using a parametric one-sample t-test as thr paired differences were approximately normally distributed.
+I checked the robustness of this result using a parametric one-sample t-test as the paired differences were approximately normally distributed.
 
 ## 4. Does Length affect RT?
 
