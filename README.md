@@ -4,9 +4,8 @@ An exploration of a peptide liquid chromatography dataset: 10,000 peptide sequen
 optional modifications, and measured retention times.
 
 The brief noted that retention is already known publicly to be driven by hydrophobicity
-and size, and that predictive models exist. I therefore did not set out to optimise a
-predictive model. Instead, I explored what this dataset represents, how much it can be
-trusted, where known chemistry appears, and where the simple picture breaks down.
+and size, and that predictive models exist. I explored what this dataset represents, how much it can be
+trusted. I then investigated the mechanisms that drive retention time, and then validated the results of this dataset.
 
 ## Running this
 
@@ -21,7 +20,7 @@ The notebook expects:
 ./portal_ds_task/peptide_retention.csv
 ```
 
-The data is not included, per the brief. The notebook runs top to bottom from a clean
+The data is not included in this github repo, per the brief. The notebook runs top to bottom from a clean
 kernel.
 How I approached it
 I followed two phases.
